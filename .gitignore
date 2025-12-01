@@ -1,0 +1,77 @@
+```
+# Compiled and build artifacts
+*.pyc
+__pycache__/
+*.o
+*.obj
+dist/
+build/
+target/
+*.class
+*.exe
+*.dll
+*.so
+*.a
+*.out
+
+# Dependencies
+.venv/
+venv/
+node_modules/
+.julia/
+zig*/
+.deps/
+.packages/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.cache
+
+# Environment
+.env
+.env.local
+.env.*
+*.env
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Coverage and testing
+coverage/
+htmlcov/
+.coverage
+.pytest_cache/
+.mypy_cache/
+.nyc_output/
+coverage-final.json
+
+# Distribution / packaging
+*.tar
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.zip
+*.gz
+*.rar
+*.7z
+*.deb
+*.rpm
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+```
